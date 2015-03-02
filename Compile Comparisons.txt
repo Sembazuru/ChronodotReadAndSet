@@ -1,0 +1,15 @@
+1.0.5 ERW:
+Binary sketch size: 6,584 bytes (of a 32,256 byte maximum)
+Estimated used SRAM memory: 510 bytes (of a 2048 byte maximum)
+
+UECIDE:
+• Program size: 6772 bytes
+• Memory size: 510 bytes
+
+
+1.0.5
+Binary sketch size: 6,772 bytes (of a 32,256 byte maximum)
+
+1.5.7
+Sketch uses 5,986 bytes (18%) of program storage space. Maximum is 32,256 bytes.
+Global variables use 503 bytes (24%) of dynamic memory, leaving 1,545 bytes for local variables. Maximum is 2,048 bytes.
